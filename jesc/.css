@@ -1,0 +1,8 @@
+body{
+    background-color: url("GasoekOne-Regular.ttf");
+}
+
+@font-face {
+    font-family: JESC2024;
+    src: url(GasoekOne-Regular.ttf);
+}
