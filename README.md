@@ -12,4 +12,4 @@ Note2: the images are the property of European Brodcasting Union and the officia
 
 # How it looks
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
